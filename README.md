@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **PyTorch and Docker**
 
-- 📫 How to reach me **kamiljarzynski@wp.pl**
+- 📫 How to reach me ****
 
 <h3 align="left">Languages and Tools:</h3>
 
