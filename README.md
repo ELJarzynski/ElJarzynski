@@ -38,17 +38,15 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </a>
-
-<!-- Separator -->
-<hr style="border: 1px solid #ddd; margin: 20px 0;"/>
-
+<span></span>
+<span></span>
 <!-- Use table for aligning the stats side by side -->
 <table width="100%">
   <tr>
-    <td>
+    <td style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eljarzynski&show_icons=true&locale=en&layout=compact" alt="eljarzynski" width="400"/>
     </td>
-    <td>
+    <td style="border: none;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=eljarzynski&" alt="eljarzynski" width="400"/>
     </td>
   </tr>
