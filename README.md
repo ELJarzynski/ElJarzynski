@@ -51,3 +51,6 @@
     </td>
   </tr>
 </table>
+
+
+![snake gif](https://github.com/ElJarzynski/ElJarzynski/blob/output/github-contribution-grid-snake.svg)
