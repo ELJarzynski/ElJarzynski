@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kamil Jarzyński</h1>
 <h3 align="center">A future MLOps developer</h3>
-<img align="right" alt="Coding" width="400" haight="1500" src="[https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966](https://www.bing.com/images/search?view=detailV2&ccid=0GIzz0ZP&id=23690929D24B54BA0932095438624C0FC935E0A0&thid=OIP.0GIzz0ZP9jWrAmZSS6qsIgHaFv&mediaurl=https%3a%2f%2fi.pinimg.com%2foriginals%2fd8%2f55%2fad%2fd855ad574a63b786b26c8229365c506e.gif&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.d06233cf464ff635ab0266524baaac22%3frik%3doOA1yQ9MYjhUCQ%26pid%3dImgRaw%26r%3d0&exph=775&expw=1000&q=Aesthetic+Coding+GIF&simid=608047561918016640&FORM=IRPRST&ck=9980A3C3F5A42A6C2805060F5D1A741A&selectedIndex=54&itb=0&ajaxhist=0&ajaxserp=0)">
+<img align="right" alt="Coding" width="400" height="1500" src="https://i.pinimg.com/originals/d8/55/ad/d855ad574a63b786b26c8229365c506e.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eljarzynski&label=Profile%20views&color=0e75b6&style=flat" alt="eljarzynski" /> </p>
 
 - 🔭 I’m currently working on **Engineering Degree**
