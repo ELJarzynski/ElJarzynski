@@ -37,7 +37,6 @@
 </a>
 <span></span>
 <span></span>
-<!-- Use table for aligning the stats side by side -->
 <table width="100%">
   <tr>
     <td style="border: none;">
