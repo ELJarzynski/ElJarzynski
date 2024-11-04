@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Engineering Degree**
 
-- 🌱 I’m currently learning **PyTorch and AWS**
+- 🌱 I’m currently learning **AWS**
 
 - 📫 How to reach me ****
 
