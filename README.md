@@ -39,9 +39,7 @@
     <td style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eljarzynski&show_icons=true&locale=en&layout=compact" alt="eljarzynski" width="400"/>
     </td>
-    <td style="border: none;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=eljarzynski&" alt="eljarzynski" width="400"/>
-    </td>
+
   </tr>
 </table>
 
