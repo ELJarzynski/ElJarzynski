@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kamil Jarzyński</h1>
-<img align="right" alt="Coding" width="400" height="460" src="https://i.pinimg.com/originals/d8/55/ad/d855ad574a63b786b26c8229365c506e.gif">
+<img align="right" alt="Coding" width="400" height="440" src="https://i.pinimg.com/originals/d8/55/ad/d855ad574a63b786b26c8229365c506e.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eljarzynski&label=Profile%20views&color=0e75b6&style=flat" alt="eljarzynski" /> </p>
 
