@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eljarzynski&label=Profile%20views&color=0e75b6&style=flat" alt="eljarzynski" /> </p>
 
-- 🔭 I’m currently working on **Engineering Degree**
+- 🔭 I’m currently working on **Deploying ML projects on AWS**
 
 - 🌱 I’m currently learning **AWS**
 
